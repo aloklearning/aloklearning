@@ -54,15 +54,23 @@ Apart from my work, I love to: **TALK | MAKE PEOPLE LAUGH | PHOTOGRAPHY | SINGIN
 - 🌱  I’m currently learning **Backend**, **Flutter development best practises**
 - 🤔  I’m looking for help with **Algorithms**, **Data Structures**, **System Design**, **Time-Space Complexity**
 - 📫  How to reach me: [LinkedIn - Alok Kumar](https://www.linkedin.com/in/alokk830/)
-- 💬  Ask me about anything related to **Flutter**, **Python3.x*, **Dart**, **Wed Development** and an average **Problem Solving**
-- 😄 Pronouns: Software Developer, Software Development Engineer, Software Engineer, Front-End Developer
-- ⚡ Fun fact: It is never too late to learn and become great at something 
+- 💬  Ask me about anything related to **Flutter**, **Python3.x**, **Dart**, **Wed Development** and an average **Problem Solving**
+- 😄 Pronouns: **Software Developer/Software Development Engineer/Software Engineer/Front-End Developer**
+- ⚡ Fun fact: *It is never too late to learn and become great at something*
 
 <h2> </h2>
 
-## Tools and Languages
+## Technologies and Languages
 
-
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 <h2> </h2>
 

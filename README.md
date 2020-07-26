@@ -50,11 +50,17 @@ Apart from my work, I love to: **TALK | MAKE PEOPLE LAUGH | PHOTOGRAPHY | SINGIN
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" width="500" height="400">
 
-- 🔭  I’m currently working on **Flutter**, **Python**, **Dart** 
+- 🔭  I’m currently working on **Flutter**, **Python3.x**, **Dart** 
 
 - 🌱  I’m currently learning **Backend**, **Flutter development best practises**
 - 🤔  I’m looking for help with **Algorithms**, **Data Structures**, **System Design**, **Time-Space Complexity**
 - 📫  How to reach me: [Alok Kumar](https://www.linkedin.com/in/alokk830/)
 - 😄 Pronouns: Software Developer, Software Development Engineer, Software Engineer, Front-End Developer
 - ⚡ Fun fact: It is never too late to learn and become great at something 
+
+<p> </p>
+
+
+
+
 

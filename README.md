@@ -1,4 +1,7 @@
-<h2>Hello everyone, this is Alok!<h2> ![](https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif)
+<div style="white-space: nowrap">
+  <h2 style="display: inline">Hello everyone, this is Alok!<h2> 
+  <img style="display: inline" src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif">
+</div>
 
 <!--
 **aloklearning/aloklearning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

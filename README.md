@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 -->
 
 ![](https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif)
-<h2>
+<h1>
   Hello everyone, this is Alok!<br>
   Welcome to my GitHub Profile <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-</h2>
+</h1>
+
+## Who Am I?
+
 
 

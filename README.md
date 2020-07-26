@@ -60,8 +60,16 @@ Apart from my work, I love to: **TALK | MAKE PEOPLE LAUGH | PHOTOGRAPHY | SINGIN
 
 <h2> </h2>
 
+## Tools and Languages
+
+
+
+<h2> </h2>
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
 ![alok's github stats](https://github-readme-stats.vercel.app/api?username=aloklearning&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloklearning&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloklearning&layout=compact&theme=tokyonight)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=flutter_bounce&theme=tokyonight)](https://github.com/aloklearning/flutter_bounce)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=python-rest-api-app&theme=tokyonight)](https://github.com/aloklearning/python-rest-api-app)

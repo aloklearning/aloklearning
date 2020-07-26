@@ -54,16 +54,14 @@ Apart from my work, I love to: **TALK | MAKE PEOPLE LAUGH | PHOTOGRAPHY | SINGIN
 
 - 🌱  I’m currently learning **Backend**, **Flutter development best practises**
 - 🤔  I’m looking for help with **Algorithms**, **Data Structures**, **System Design**, **Time-Space Complexity**
-- 📫  How to reach me: [Alok Kumar](https://www.linkedin.com/in/alokk830/)
+- 📫  How to reach me: [LinkedIn - Alok Kumar](https://www.linkedin.com/in/alokk830/)
 - 😄 Pronouns: Software Developer, Software Development Engineer, Software Engineer, Front-End Developer
 - ⚡ Fun fact: It is never too late to learn and become great at something 
 
 <h2> </h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=flutter_bounce&theme=tokyonight)]
-(https://github.com/aloklearning/flutter_bounce)
-
-
-
 ![alok's github stats](https://github-readme-stats.vercel.app/api?username=aloklearning&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloklearning&theme=tokyonight)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=flutter_bounce&theme=tokyonight)](https://github.com/aloklearning/flutter_bounce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=python-rest-api-app&theme=tokyonight)](https://github.com/aloklearning/python-rest-api-app)

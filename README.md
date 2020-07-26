@@ -58,9 +58,12 @@ Apart from my work, I love to: **TALK | MAKE PEOPLE LAUGH | PHOTOGRAPHY | SINGIN
 - 😄 Pronouns: Software Developer, Software Development Engineer, Software Engineer, Front-End Developer
 - ⚡ Fun fact: It is never too late to learn and become great at something 
 
-<p> </p>
+<h2> </h2>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=flutter_bounce&theme=tokyonight)]
+(https://github.com/aloklearning/flutter_bounce)
 
 
 
-
-
+![alok's github stats](https://github-readme-stats.vercel.app/api?username=aloklearning&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloklearning&theme=tokyonight)

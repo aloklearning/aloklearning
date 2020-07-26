@@ -44,5 +44,9 @@ Apart from my work, I love to: **TALK | MAKE PEOPLE LAUGH | PHOTOGRAPHY | SINGIN
   </a>
 </p>
 
+<p align="center"><img src="https://profile-counter.glitch.me/aloklearning/count.svg" alt="count" height="30"></p>
+
+## Profile Summary
+
 
 

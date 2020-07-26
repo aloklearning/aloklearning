@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## Who Am I?
 
 A hands-on creative software developer with excellent communication, organizational skills. A hard-working person who believes in completing things, who has an experience in Object-Oriented Programming as well as working on different platforms. Great dedication with excellent focus on doing various task. A learning enthusiast who is comfortable with multiple tech languages & frameworks and would love to work in a very dynamic & aspirational environment.
-Apart from my work, I love to: TALK | MAKE PEOPLE LAUGH | PHOTOGRAPHY | SINGING | EATING FOOD
+Apart from my work, I love to: **TALK | MAKE PEOPLE LAUGH | PHOTOGRAPHY | SINGING | EATING FOOD**
 
 
 <p align="center"> 

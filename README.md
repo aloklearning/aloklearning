@@ -1,4 +1,4 @@
-### Hello everyone, this is Alok! ![](https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif)
+<h2>Hello everyone, this is Alok!<h2> ![](https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif)
 
 <!--
 **aloklearning/aloklearning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

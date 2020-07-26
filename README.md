@@ -36,8 +36,8 @@ Apart from my work, I love to: **TALK | MAKE PEOPLE LAUGH | PHOTOGRAPHY | SINGIN
   <a href="https://www.linkedin.com/in/alokk830/">
     <img align="center" alt="Alok Kumar LinkdeIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/alok.verma.370/">
-    <img align="center" alt="Alok Kumar" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <a href="https://www.hackerrank.com/alokk830">
+    <img align="center" alt="Alok Kumar Hackerrank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/alok_kumar_verma/">
     <img align="center" alt="Alok Kumar" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />

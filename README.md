@@ -19,6 +19,10 @@ Here are some ideas to get you started:
   Welcome to my GitHub Profile <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 
+<p align="center">
+  <img src="https://github.com/aloklearning/aloklearning/blob/master/alok.png" alt="code-block">
+</p>
+
 ## Who Am I?
 
 

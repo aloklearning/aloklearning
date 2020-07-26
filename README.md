@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif)
+<!-- ![](https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif) -->
 <h1>
-  Hello everyone, this is Alok!<br>
+  Hello everyone, this is Alok! <img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif" width="50"><br>
   Welcome to my GitHub Profile <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 

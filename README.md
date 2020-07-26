@@ -1,7 +1,3 @@
-
-![](https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif)
-<h2>Hello everyone, this is Alok!</h2>
-
 <!--
 **aloklearning/aloklearning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif)
+<h2>
+  Hello everyone, this is Alok!<br>
+  Welcome to my GitHub Profile <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+</h2>
+
+

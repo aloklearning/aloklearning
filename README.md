@@ -28,23 +28,25 @@ Here are some ideas to get you started:
 A hands-on creative software developer with excellent communication, organizational skills. A hard-working person who believes in completing things, who has an experience in Object-Oriented Programming as well as working on different platforms. Great dedication with excellent focus on doing various task. A learning enthusiast who is comfortable with multiple tech languages & frameworks and would love to work in a very dynamic & aspirational environment.
 Apart from my work, I love to: **TALK | MAKE PEOPLE LAUGH | PHOTOGRAPHY | SINGING | EATING FOOD**
 
+<p align="center"><img src="https://profile-counter.glitch.me/aloklearning/count.svg" alt="count" height="30"></p>
 
 <p align="center"> 
-  <a href="https://stackoverflow.com/users/5362583/alok?tab=profile">
+<!--   <a href="https://stackoverflow.com/users/5362583/alok?tab=profile">
     <img align="center" alt=" | Stackoverflow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/stackoverflow.svg" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp; -->
+  <a href="https://stackoverflow.com/users/5362583/alok?tab=profile">
+    <img align="center" alt=" | Stackoverflow" src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/alokk830/">
-    <img align="center" alt="Alok Kumar LinkdeIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="Alok Kumar LinkdeIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/alokk830">
-    <img align="center" alt="Alok Kumar Hackerrank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="Alok Kumar Hackerrank" src="https://img.shields.io/badge/hackerrank-%2312100E.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&color=green" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/alok_kumar_verma/">
-    <img align="center" alt="Alok Kumar" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img align="center" alt="Alok Kumar" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=blue" />
   </a>
 </p>
-
-<p align="center"><img src="https://profile-counter.glitch.me/aloklearning/count.svg" alt="count" height="30"></p>
 
 ## Profile Summary
 

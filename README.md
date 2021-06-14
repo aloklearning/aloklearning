@@ -52,8 +52,8 @@ Apart from my work, I love to: **TALK | MAKE PEOPLE LAUGH | PHOTOGRAPHY | SINGIN
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" width="500" height="400">
 
-- 🔭  I’m currently working on **Flutter**, **Python3.x**, **Dart** 
-- 🌱  I’m currently learning **Backend**, **Flutter development best practises**, **React-Native**, **Node-ExpressJS**
+- 🔭  I’m currently working on **React Native**, **Javascript** 
+- 🌱  I’m currently learning **Backend**, **Flutter development best practises**, **Node-ExpressJS**
 - 🤔  I’m looking for help with **Algorithms**, **Data Structures**, **System Design**, **Time-Space Complexity**
 - 📫  How to reach me: [LinkedIn - Alok Kumar](https://www.linkedin.com/in/alokk830/)
 - 💬  Ask me about anything related to **Flutter**, **Python3.x**, **Dart**, **Wed Development** and an average **Problem Solving**
@@ -64,6 +64,7 @@ Apart from my work, I love to: **TALK | MAKE PEOPLE LAUGH | PHOTOGRAPHY | SINGIN
 
 ## Technologies and Languages
 
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>

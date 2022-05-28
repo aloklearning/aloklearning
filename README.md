@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## Who Am I?
 
 A hands-on creative software developer with excellent communication, organizational skills. A hard-working person who believes in completing things, who has an experience in Object-Oriented Programming as well as working on different platforms. Great dedication with excellent focus on doing various task. A learning enthusiast who is comfortable with multiple tech languages & frameworks and would love to work in a very dynamic & aspirational environment.
-Apart from my work, I love to: **TALK | MAKE PEOPLE LAUGH | PHOTOGRAPHY | SINGING | EATING FOOD**
+Apart from my work, I love to: **TALK | MAKE PEOPLE LAUGH | PHOTOGRAPHY | SINGING | VLOGGING**
 
 <p align="center"> 
 <!--   <a href="https://stackoverflow.com/users/5362583/alok?tab=profile">
@@ -37,6 +37,9 @@ Apart from my work, I love to: **TALK | MAKE PEOPLE LAUGH | PHOTOGRAPHY | SINGIN
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/alokk830/">
     <img align="center" alt="Alok LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/alokk830">
+    <img align="center" alt="Alok Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/alokk830">
     <img align="center" alt="Alok HackerRank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
@@ -55,7 +58,7 @@ Apart from my work, I love to: **TALK | MAKE PEOPLE LAUGH | PHOTOGRAPHY | SINGIN
 - 🔭  I’m currently working on **React Native**, **Javascript** 
 - 🌱  I’m currently learning **Backend**, **Flutter development best practises**, **Node-ExpressJS**
 - 🤔  I’m looking for help with **Algorithms**, **Data Structures**, **System Design**, **Time-Space Complexity**
-- 📫  How to reach me: [LinkedIn - Alok Kumar](https://www.linkedin.com/in/alokk830/)
+- 📫  How to reach me: [LinkedIn - Alok Kumar](https://www.linkedin.com/in/alokk830/), [Twitter (@alokk830)](https://twitter.com/alokk830)
 - 💬  Ask me about anything related to **Flutter**, **Python3.x**, **Dart**, **Wed Development** and an average **Problem Solving**
 - 😄 Pronouns: **Software Developer/Software Development Engineer/Software Engineer/Front-End Developer**
 - ⚡ Fun fact: *It is never too late to learn and become great at something*

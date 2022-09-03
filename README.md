@@ -27,27 +27,13 @@ Here are some ideas to get you started:
 A hands-on creative software developer with excellent communication, organizational skills. A hard-working person who believes in completing things, who has an experience in Object-Oriented Programming as well as working on different platforms. Great dedication with excellent focus on doing various task. A learning enthusiast who is comfortable with multiple tech languages & frameworks and would love to work in a very dynamic & aspirational environment.
 Apart from my work, I love to: **TALK | MAKE PEOPLE LAUGH | PHOTOGRAPHY | SINGING | VLOGGING**
 
-<p align="center"> 
-<!--   <a href="https://stackoverflow.com/users/5362583/alok?tab=profile">
-    <img align="center" alt=" | Stackoverflow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/stackoverflow.svg" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp; -->
-  <a href="https://stackoverflow.com/users/5362583/alok?tab=profile">
-    <img align="center" alt="Alok StackoverFlow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/alokk830/">
-    <img align="center" alt="Alok LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/alokk830">
-    <img align="center" alt="Alok Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/alokk830">
-    <img align="center" alt="Alok HackerRank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/alok_kumar_verma/">
-    <img align="center" alt="Alok Insta" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-</p>
+[![StackOverFlow](https://img.shields.io/badge/StackOverFlow-%23FF9900.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5362583/alok?tab=profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%232671E5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alokk830/)
+[![Twitter](https://img.shields.io/badge/Twitter-0A9EDC?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alokk830)
+[![HackerRank](https://img.shields.io/badge/HackerRank-1ba94c?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/alokk830?hr_r=1)
+[![Instagram](https://img.shields.io/badge/Instagram-F77737?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/exploreralok/)
 
+<h4 align="center">Github Profile Views (Updated Daily)</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/aloklearning/count.svg" alt="count" height="30"></p>
 
 ## Profile Summary
@@ -85,7 +71,6 @@ Apart from my work, I love to: **TALK | MAKE PEOPLE LAUGH | PHOTOGRAPHY | SINGIN
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-dd1b16?style=for-the-badge&logo=angular&logoColor=white)
 
-
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -121,12 +106,6 @@ Apart from my work, I love to: **TALK | MAKE PEOPLE LAUGH | PHOTOGRAPHY | SINGIN
   
   <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=aloklearning&include_all_commits=true&hide_border=false&theme=dark"/>
 </p>
-
-<h4>Lines of Code per language</h4>
-<p align="left">
-	<img width="450em" src="https://api.githubtrends.io/user/svg/aloklearning/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
-</p>
-
 
 ## Projects
 

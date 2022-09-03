@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![](https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif) -->
-<h1>
-  Hello everyone, this is Alok! <img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif" width="50"><br>
-  Welcome to my GitHub Profile <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<h1 align="center">
+  Hello everyone, this is Alok! &nbsp;Welcome to my GitHub Profile <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 
 <p align="center"> 
@@ -65,27 +64,88 @@ Apart from my work, I love to: **TALK | MAKE PEOPLE LAUGH | PHOTOGRAPHY | SINGIN
 
 <h2> </h2>
 
-## Technologies and Languages
+## Technologies
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+### Programming & Markdown, Styling Languages
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-3670A0?style=for-the-badge&logo=go&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0A9EDC?style=for-the-badge&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks, Platforms and Libraries IDE
+![React Native](https://img.shields.io/badge/ReactNative-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-0A9EDC?style=for-the-badge&logo=flutter&logoColor=white)
+![Goland](https://img.shields.io/badge/Gloand-0A9EDC?style=for-the-badge&logo=goland&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-dd1b16?style=for-the-badge&logo=angular&logoColor=white)
+
+
+### Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+### Hosting/SaaS
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Testing
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+### Other
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-1679A7?style=for-the-badge&logo=firebase&logoColor=yellow)
 
 <h2> </h2>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-![alok's github stats](https://github-readme-stats.vercel.app/api?username=aloklearning&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloklearning&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloklearning&layout=compact&theme=dark)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=flutter_bounce&theme=tokyonight)](https://github.com/aloklearning/flutter_bounce)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=python-rest-api-app&theme=tokyonight)](https://github.com/aloklearning/python-rest-api-app)
+<p align="left">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=aloklearning&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=dark" />
+  
+  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=aloklearning&include_all_commits=true&hide_border=false&theme=dark"/>
+</p>
+
+<h4>Lines of Code per language</h4>
+<p align="left">
+	<img width="450em" src="https://api.githubtrends.io/user/svg/aloklearning/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
+</p>
+
+
+## Projects
+
+### Package
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=flutter_bounce&theme=dark)](https://github.com/aloklearning/flutter_bounce)
+
+### Full-stack
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=wp-blog-scrapping&theme=dark)](https://github.com/aloklearning/wp-blog-scrapping)
+
+### Front-end
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=birthday-coding-challenge&theme=dark)](https://github.com/aloklearning/birthday-coding-challenge)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=byjus-search-app&theme=dark)](https://github.com/aloklearning/byjus-search-app)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=react-native-spacex-app&theme=dark)](https://github.com/aloklearning/react-native-spacex-app)
+
+
+### Back-end
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=python-rest-api-app&theme=dark)](https://github.com/aloklearning/python-rest-api-app)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=node-spacex-api&theme=dark)](https://github.com/aloklearning/node-spacex-api)
+

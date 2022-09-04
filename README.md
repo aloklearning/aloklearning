@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- ![](https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif) -->
 <h1 align="center">
-  Hello everyone, this is Alok! &nbsp;Welcome to my GitHub Profile <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+  Hello everyone, I am Alok! &nbsp;Welcome to my GitHub Profile <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 
 <p align="center"> 

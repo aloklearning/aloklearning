@@ -116,8 +116,6 @@ Apart from my work, I love to: **TALK | MAKE PEOPLE LAUGH | PHOTOGRAPHY | SINGIN
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=wp-blog-scrapping&theme=dark)](https://github.com/aloklearning/wp-blog-scrapping)
 
 ### Front-end
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=birthday-coding-challenge&theme=dark)](https://github.com/aloklearning/birthday-coding-challenge)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=byjus-search-app&theme=dark)](https://github.com/aloklearning/byjus-search-app)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=react-native-spacex-app&theme=dark)](https://github.com/aloklearning/react-native-spacex-app)
@@ -127,4 +125,7 @@ Apart from my work, I love to: **TALK | MAKE PEOPLE LAUGH | PHOTOGRAPHY | SINGIN
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=python-rest-api-app&theme=dark)](https://github.com/aloklearning/python-rest-api-app)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=node-spacex-api&theme=dark)](https://github.com/aloklearning/node-spacex-api)
+
+## Coding Challenge
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=birthday-coding-challenge&theme=dark)](https://github.com/aloklearning/birthday-coding-challenge)
 

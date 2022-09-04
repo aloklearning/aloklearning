@@ -93,7 +93,7 @@ Apart from my work, I love to: **TALK | MAKE PEOPLE LAUGH | PHOTOGRAPHY | SINGIN
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-1679A7?style=for-the-badge&logo=firebase&logoColor=yellow)
+![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white)
 
 <h2> </h2>
 

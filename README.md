@@ -126,6 +126,6 @@ Apart from my work, I love to: **TALK | MAKE PEOPLE LAUGH | PHOTOGRAPHY | SINGIN
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=node-spacex-api&theme=dark)](https://github.com/aloklearning/node-spacex-api)
 
-## Coding Challenge
+### Coding Challenge
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=birthday-coding-challenge&theme=dark)](https://github.com/aloklearning/birthday-coding-challenge)
 

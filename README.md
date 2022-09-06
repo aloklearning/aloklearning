@@ -44,7 +44,6 @@ Apart from my work, I love to: **Talk | Making People Laugh | Photgraphy | Singi
 - 🌱  I’m currently learning **Backend**, **System Design**, **TDD (Test Driven Development**
 - 🤔  I’m looking for help with **Algorithms**, **Data Structures**, **Time-Space Complexity**
 - 📫  How to reach me: [LinkedIn - Alok Kumar](https://www.linkedin.com/in/alokk830/), [Twitter (@alokk830)](https://twitter.com/alokk830)
-- 💬  Ask me about anything related to **Flutter**, **Python3.x**, **Dart**, **Wed Development** and an average **Problem Solving**
 - 😄 Pronouns: **Software Developer/Software Development Engineer/Software Engineer/Front-End Developer**
 - ⚡ Fun fact: *It is never too late to learn and become great at something*
 

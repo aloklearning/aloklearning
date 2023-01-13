@@ -98,7 +98,7 @@ Apart from my work, I love to: **Talk | Making People Laugh | Photgraphy | Singi
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloklearning&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aloklearning&layout=compact&theme=dark)
 
 <p align="left">
 	<img width="450em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aloklearning&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=dark" />

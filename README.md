@@ -101,7 +101,7 @@ Apart from my work, I love to: **Talk | Making People Laugh | Photgraphy | Singi
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloklearning&layout=compact&theme=dark)
 
 <p align="left">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=aloklearning&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=dark" />
+	<img width="450em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aloklearning&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=dark" />
   
   <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=aloklearning&include_all_commits=true&hide_border=false&theme=dark"/>
 </p>
@@ -109,21 +109,21 @@ Apart from my work, I love to: **Talk | Making People Laugh | Photgraphy | Singi
 ## Projects
 
 ### Package
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=flutter_bounce&theme=dark)](https://github.com/aloklearning/flutter_bounce)
+[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=flutter_bounce&theme=dark)](https://github.com/aloklearning/flutter_bounce)
 
 ### Full-stack
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=wp-blog-scrapping&theme=dark)](https://github.com/aloklearning/wp-blog-scrapping)
+[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=wp-blog-scrapping&theme=dark)](https://github.com/aloklearning/wp-blog-scrapping)
 
 ### Front-end
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=byjus-search-app&theme=dark)](https://github.com/aloklearning/byjus-search-app)
+[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=byjus-search-app&theme=dark)](https://github.com/aloklearning/byjus-search-app)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=react-native-spacex-app&theme=dark)](https://github.com/aloklearning/react-native-spacex-app)
+[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=react-native-spacex-app&theme=dark)](https://github.com/aloklearning/react-native-spacex-app)
 
 
 ### Back-end
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=python-rest-api-app&theme=dark)](https://github.com/aloklearning/python-rest-api-app)
+[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=python-rest-api-app&theme=dark)](https://github.com/aloklearning/python-rest-api-app)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=node-spacex-api&theme=dark)](https://github.com/aloklearning/node-spacex-api)
+[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=node-spacex-api&theme=dark)](https://github.com/aloklearning/node-spacex-api)
 
 ### Scripting
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aloklearning&repo=py-categorizer&theme=dark)](https://github.com/aloklearning/py-categorizer)
+[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=py-categorizer&theme=dark)](https://github.com/aloklearning/py-categorizer)

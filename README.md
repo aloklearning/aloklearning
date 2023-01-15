@@ -121,8 +121,6 @@ Apart from my work, I love to: **Talk | Making People Laugh | Photgraphy | Singi
 
 
 ### Back-end
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=go-create-video&theme=dark)](https://github.com/aloklearning/go-create-video)
-
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=python-rest-api-app&theme=dark)](https://github.com/aloklearning/python-rest-api-app)
 
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=node-spacex-api&theme=dark)](https://github.com/aloklearning/node-spacex-api)

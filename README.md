@@ -49,7 +49,7 @@ Apart from my work, I love to: **Talk | Making People Laugh | Photgraphy | Singi
 
 <h2> </h2>
 
-## Technologies
+## Technologies I've worked with
 
 ### Programming & Markdown, Styling Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -106,21 +106,21 @@ Apart from my work, I love to: **Talk | Making People Laugh | Photgraphy | Singi
   <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=aloklearning&include_all_commits=true&hide_border=false&theme=dark"/>
 </p>
 
-## Projects
+## Projects Made
 
 ### Package
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=flutter_bounce&theme=dark)](https://github.com/aloklearning/flutter_bounce)
 
-### Full-stack
+### Full-Stack
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=wp-blog-scrapping&theme=dark)](https://github.com/aloklearning/wp-blog-scrapping)
 
-### Front-end
+### Front-End
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=byjus-search-app&theme=dark)](https://github.com/aloklearning/byjus-search-app)
 
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=react-native-spacex-app&theme=dark)](https://github.com/aloklearning/react-native-spacex-app)
 
 
-### Back-end
+### Back-End
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=go-create-video&theme=dark)](https://github.com/aloklearning/go-create-video)
 
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=python-rest-api-app&theme=dark)](https://github.com/aloklearning/python-rest-api-app)

@@ -63,6 +63,7 @@ Apart from my work, I love to: **Talk | Making People Laugh | Photgraphy | Singi
 
 ### Frameworks, Platforms and Libraries IDE
 ![React Native](https://img.shields.io/badge/ReactNative-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![ReactJS](https://img.shields.io/badge/ReactJS-61dafb?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-0A9EDC?style=for-the-badge&logo=flutter&logoColor=white)
 ![Goland](https://img.shields.io/badge/Gloand-0A9EDC?style=for-the-badge&logo=goland&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)

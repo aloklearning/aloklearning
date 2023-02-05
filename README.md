@@ -33,6 +33,8 @@ Apart from my work, I love to: **Talk | Making People Laugh | Photgraphy | Singi
 [![HackerRank](https://img.shields.io/badge/HackerRank-1ba94c?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/alokk830?hr_r=1)
 [![Instagram](https://img.shields.io/badge/Instagram-F77737?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/exploreralok/)
 
+<a href=#><img src="githubgraph.svg"></a>
+
 <h4 align="center">Github Profile Views (Updated Daily)</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/aloklearning/count.svg" alt="count" height="30"></p>
 

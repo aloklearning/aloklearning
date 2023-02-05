@@ -118,6 +118,8 @@ Apart from my work, I love to: **Talk | Making People Laugh | Photgraphy | Singi
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=wp-blog-scrapping&theme=dark)](https://github.com/aloklearning/wp-blog-scrapping)
 
 ### Front-End
+[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=react-task-tracker&theme=dark)](https://github.com/aloklearning/react-task-tracker)
+
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=byjus-search-app&theme=dark)](https://github.com/aloklearning/byjus-search-app)
 
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=react-native-spacex-app&theme=dark)](https://github.com/aloklearning/react-native-spacex-app)

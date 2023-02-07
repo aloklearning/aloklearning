@@ -42,9 +42,9 @@ Apart from my work, I love to: **Talk | Making People Laugh | Photgraphy | Singi
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" width="500" height="400">
 
-- 🔭  I’m currently working on **Go**
-- 🌱  I’m currently learning **Backend**, **System Design**, **TDD (Test Driven Development**
-- 🤔  I’m looking for help with **Algorithms**, **Data Structures**, **Time-Space Complexity**
+- 🔭  I’m currently working on **Go**, **ReactJS**
+- 🌱  I’m currently learning **Backend**, **Website Development**
+- 🤔  I’m looking for help with **Algorithms**, **Data Structures**, **System Design**, **Time-Space Complexity**
 - 📫  How to reach me: [LinkedIn - Alok Kumar](https://www.linkedin.com/in/alokk830/), [Twitter (@alokk830)](https://twitter.com/alokk830)
 - 😄 Pronouns: **Software Developer/Software Development Engineer/Software Engineer/Front-End Developer**
 - ⚡ Fun fact: *It is never too late to learn and become great at something*

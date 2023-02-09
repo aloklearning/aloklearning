@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center"> 
-  <img src="https://github.com/aloklearning/aloklearning/blob/master/ReadmeCode.png" alt="code-block">
+  <img src="https://github.com/aloklearning/aloklearning/blob/master/ReadmeCodeAsset.png" alt="code-block">
 </p>
 
 ## Who Am I?

@@ -69,9 +69,10 @@ Apart from my work, I love to: **Talk | Making People Laugh | Photgraphy | Singi
 ![Flutter](https://img.shields.io/badge/Flutter-0A9EDC?style=for-the-badge&logo=flutter&logoColor=white)
 ![Goland](https://img.shields.io/badge/Gloand-0A9EDC?style=for-the-badge&logo=goland&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/materialui-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-dd1b16?style=for-the-badge&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD1B16?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -88,6 +89,7 @@ Apart from my work, I love to: **Talk | Making People Laugh | Photgraphy | Singi
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Testing
+![Jest](https://img.shields.io/badge/Jest-DD1B16?style=for-the-badge&logo=jest&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ### Others

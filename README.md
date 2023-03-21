@@ -122,7 +122,7 @@ Apart from my work, I love to: **Talk | Making People Laugh | Photgraphy | Singi
 ### Front-End
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=react-task-tracker&theme=dark)](https://github.com/aloklearning/react-task-tracker)
 
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=react-spaceship-finder&theme=dark)](https://github.com/aloklearning/react-spaceship-finder)
+<!-- [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=react-spaceship-finder&theme=dark)](https://github.com/aloklearning/react-spaceship-finder) -->
 
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=byjus-search-app&theme=dark)](https://github.com/aloklearning/byjus-search-app)
 

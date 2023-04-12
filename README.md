@@ -57,22 +57,22 @@ Apart from my work, I love to: **Talk | Making People Laugh | Photgraphy | Singi
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-3670A0?style=for-the-badge&logo=go&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0A9EDC?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks, Platforms and Libraries IDE
 ![React Native](https://img.shields.io/badge/ReactNative-61dafb?style=for-the-badge&logo=react&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/ReactJS-61dafb?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-0A9EDC?style=for-the-badge&logo=flutter&logoColor=white)
-![Goland](https://img.shields.io/badge/Gloand-0A9EDC?style=for-the-badge&logo=goland&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/materialui-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD1B16?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-0A9EDC?style=for-the-badge&logo=flutter&logoColor=white)
+![Goland](https://img.shields.io/badge/Gloand-0A9EDC?style=for-the-badge&logo=goland&logoColor=white)
 
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

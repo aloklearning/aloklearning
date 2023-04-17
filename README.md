@@ -18,8 +18,12 @@ Here are some ideas to get you started:
   Hello everyone, I am Alok!&nbsp;Welcome to my GitHub Profile <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="https://github.com/aloklearning/aloklearning/blob/master/readmecode.png" alt="code-block">
+</p> -->
+
+<p align="center"> 
+    <img width='80%' height='140rem' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote-block" />
 </p>
 
 ## Who Am I?
@@ -110,6 +114,10 @@ Apart from my work, I love to: **Talk | Making People Laugh | Photgraphy | Singi
   
   <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=aloklearning&include_all_commits=true&hide_border=false&theme=dark"/>
 </p>
+
+## GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=aloklearning&theme=dracula&no-frame=false&no-bg=false&margin-w=25&margin-h=20)
 
 ## Projects Made
 

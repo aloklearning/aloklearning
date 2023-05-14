@@ -160,7 +160,7 @@ Apart from my work, I love to: **Talk | Making People Laugh | Photgraphy | Singi
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=py-categorizer&theme=dark)](https://github.com/aloklearning/py-categorizer)
 
 ### Coding Challenge
-<!-- [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=javascript-lazy-evaluation&theme=dark)](https://github.com/aloklearning/javascript-lazy-evaluation) -->
+[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=javascript-lazy-evaluation&theme=dark)](https://github.com/aloklearning/javascript-lazy-evaluation)
 
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=birthday-coding-challenge&theme=dark)](https://github.com/aloklearning/birthday-coding-challenge)
 

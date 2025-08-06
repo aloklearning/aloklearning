@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## Who Am I?
 
-A hands-on creative software developer with excellent communication, organizational skills. A hard-working person who believes in completing things, who has an experience in Object-Oriented Programming as well as working on different platforms. Great dedication with excellent focus on doing various task. A learning enthusiast who is comfortable with multiple tech languages & frameworks and would love to work in a very dynamic & aspirational environment.
+A hands-on creative software developer with **excellent communication, organizational skills**. A hard-working person who believes in completing things, who has an experience in **Object-Oriented Programming** as well as working on different platforms. Great dedication with excellent focus on doing various task. A learning enthusiast who is comfortable with multiple tech languages & frameworks and would love to work in a very dynamic & aspirational environment.
 Apart from my work, I love to: **Talk | Making People Laugh | Photgraphy | Singing | Vlogging**
 
 [![StackOverFlow](https://img.shields.io/badge/StackOverFlow-%23FF9900.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5362583/alok?tab=profile)
@@ -39,9 +39,6 @@ Apart from my work, I love to: **Talk | Making People Laugh | Photgraphy | Singi
 
 <a href=#><img src="githubgraph.svg"></a>
 
-<h4 align="center">Github Profile Views (Updated Daily)</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/aloklearning/count.svg" alt="count" height="30"></p>
-
 ## Profile Summary
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" width="500" height="400">
@@ -49,7 +46,7 @@ Apart from my work, I love to: **Talk | Making People Laugh | Photgraphy | Singi
 - 🔭  I’m currently working on **ReactJS**, **System Design**
 - 🌱  I’m currently learning **Backend**, **Website Development**
 - 🤔  I’m looking for help with **Algorithms**, **Data Structures**, **System Design**, **Time-Space Complexity**
-- 📫  How to reach me: [LinkedIn - Alok Kumar](https://www.linkedin.com/in/alokk830/), [Twitter (@alokk830)](https://twitter.com/alokk830)
+- 📫  How to reach me: [LinkedIn - Alok Kumar](https://www.linkedin.com/in/alokk830/)
 - 😄 Pronouns: **Software Developer/Software Development Engineer/Software Engineer/Front-End Developer**
 - ⚡ Fun fact: *It is never too late to learn and become great at something*
 
@@ -105,6 +102,7 @@ Apart from my work, I love to: **Talk | Making People Laugh | Photgraphy | Singi
 
 ![Jest](https://img.shields.io/badge/Jest-DD1B16?style=for-the-badge&logo=jest&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 
 ### Others
 
@@ -115,52 +113,6 @@ Apart from my work, I love to: **Talk | Making People Laugh | Photgraphy | Singi
 
 <h2></h2>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aloklearning&layout=compact&theme=dark)
-
-<p align="left">
-	<img width="450em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aloklearning&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=dark" />
-  
-  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=aloklearning&include_all_commits=true&hide_border=false&theme=dark"/>
-</p>
-
 ## GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=aloklearning&theme=dracula&no-frame=false&no-bg=false&margin-w=25&margin-h=20)
-
-## Projects Made
-
-### Package
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=flutter_bounce&theme=dark)](https://github.com/aloklearning/flutter_bounce)
-
-### Full-Stack
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=wp-blog-scrapping&theme=dark)](https://github.com/aloklearning/wp-blog-scrapping)
-
-### Front-End
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=react-task-tracker&theme=dark)](https://github.com/aloklearning/react-task-tracker)
-
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=react-book-library&theme=dark)](https://github.com/aloklearning/react-book-library)
-
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=react-spaceship-finder&theme=dark)](https://github.com/aloklearning/react-spaceship-finder)
-
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=byjus-search-app&theme=dark)](https://github.com/aloklearning/byjus-search-app)
-
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=react-native-spacex-app&theme=dark)](https://github.com/aloklearning/react-native-spacex-app)
-
-
-### Back-End
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=go-create-video&theme=dark)](https://github.com/aloklearning/go-create-video)
-
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=python-rest-api-app&theme=dark)](https://github.com/aloklearning/python-rest-api-app)
-
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=node-spacex-api&theme=dark)](https://github.com/aloklearning/node-spacex-api)
-
-### Scripting
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=py-categorizer&theme=dark)](https://github.com/aloklearning/py-categorizer)
-
-### Coding Challenge
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=javascript-lazy-evaluation&theme=dark)](https://github.com/aloklearning/javascript-lazy-evaluation)
-
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aloklearning&repo=birthday-coding-challenge&theme=dark)](https://github.com/aloklearning/birthday-coding-challenge)
-

@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 
 ## Who Am I?
 
-A hands-on creative software developer with **excellent communication, organizational skills**. A hard-working person who believes in completing things, who has an experience in **Object-Oriented Programming** as well as working on different platforms. Great dedication with excellent focus on doing various task. A learning enthusiast who is comfortable with multiple tech languages & frameworks and would love to work in a very dynamic & aspirational environment.
-Apart from my work, I love to: **Talk | Making People Laugh | Photgraphy | Singing | Vlogging**
+I build software that scales, survives, and ships. Senior engineer focused on **frontend architecture**, **performance**, and **developer experience—backed by real users**, **real adoption**, and **real impact**. Open-source contributor. Mentor. Systems thinker.
 
 [![StackOverFlow](https://img.shields.io/badge/StackOverFlow-%23FF9900.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5362583/alok?tab=profile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%232671E5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alokk830/)

@@ -28,7 +28,11 @@ Here are some ideas to get you started:
 
 ## Who Am I?
 
-I build software that scales, survives, and ships. Senior engineer focused on **frontend architecture**, **performance**, and **developer experience—backed by real users**, **real adoption**, and **real impact**. Open-source contributor. Mentor. Systems thinker.
+A **Senior Software Engineer** obsessed with building high-impact, production-grade systems that scale. I specialize in **frontend architecture** and **product-driven engineering**, with deep experience across **React**, **JavaScript/TypeScript** and **Frontend Development**.
+
+I’ve shipped applications used by **tens of thousands of users**, **automated thousands of daily transactions**, and **built open-source tools adopted globally**. My work consistently focuses on **performance**, **clean abstractions**, and **developer experience**, the things that separate good software from great systems.
+
+Beyond code, I **mentor engineers**, **lead reviews**, and **design workflows** that raise team velocity and code quality. I don’t chase trends, I build durable software that lasts under real-world pressure.
 
 [![StackOverFlow](https://img.shields.io/badge/StackOverFlow-%23FF9900.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5362583/alok?tab=profile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%232671E5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alokk830/)
@@ -43,7 +47,7 @@ I build software that scales, survives, and ships. Senior engineer focused on **
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" width="500" height="400">
 
 - 🔭  I’m currently working on **ReactJS**, **System Design**
-- 🌱  I’m currently learning **Backend**, **Website Development**
+- 🌱  I’m continously learning **Software Engineering** for best results
 - 🤔  I’m looking for help with **Algorithms**, **Data Structures**, **System Design**, **Time-Space Complexity**
 - 📫  How to reach me: [LinkedIn - Alok Kumar](https://www.linkedin.com/in/alokk830/)
 - 😄 Pronouns: **Software Developer/Software Development Engineer/Software Engineer/Front-End Developer**

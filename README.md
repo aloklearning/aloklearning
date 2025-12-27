@@ -110,9 +110,3 @@ Apart from my work, I love to: **Talk | Making People Laugh | Photgraphy | Singi
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<h2></h2>
-
-## GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=aloklearning&theme=dracula&no-frame=false&no-bg=false&margin-w=25&margin-h=20)
